@@ -1,0 +1,2 @@
+# Double Tap Sensor
+genfscon sysfs /sys/devices/platform/soc/990000.i2c/i2c-5/5-004b/double_tap_pressed  u:object_r:vendor_proc_display:s0
